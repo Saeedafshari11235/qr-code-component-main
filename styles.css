@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
 
 .color{
     color: hsl(0, 0%, 100%);
@@ -14,4 +12,12 @@
 }
 body{
     background-color: hsl(212, 45%, 89%);
+}
+main{
+    width: 19%;
+    height: 450px;
+    background-color: hsl(0, 0%, 100%);
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: 0px 10px 15px hsl(213, 16%, 76%);
 }
